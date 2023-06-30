@@ -11,7 +11,7 @@ Proyek ini menggunakan salah satu library javascript yaitu [Highlight.js v11.7.0
 
 ## Small example
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
