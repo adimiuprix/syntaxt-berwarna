@@ -5,7 +5,7 @@ Proyek ini menggunakan salah satu library javascript yaitu [Highlight.js v11.7.0
 
 ## Getting started
 
-- Jika kalian ingin mengunduh library ini silahkan pergi ke [highlightjs][https://highlightjs.org/]
+- Jika kalian ingin mengunduh library ini silahkan pergi ke [highlightjs](https://highlightjs.org/)
 - salin di root atau di mana proyek kalian berada.
 - panggil file [highlinght.js] dan [styles] ada banyak style yang dapat di gunakan, semua ada di folder [styles]
 
