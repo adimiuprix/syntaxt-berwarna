@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="styles/tokyo-night-dark.min.css">
+    </head>
+    <body>
+        <pre>
+            <code>
+                # The Greeter class
+                class Greeter
+                  def initialize(name)
+                    @name = name.capitalize
+                  end
+                
+                  def salute
+                    puts "Hello #{@name}!"
+                  end
+                end
+                
+                g = Greeter.new("world")
+                g.salute
+            </code>
+        </pre>
+        <script src="highlight.min.js"></script>
+        <script>
+            hljs.highlightAll();
+        </script>
+    </body>
+</html>
